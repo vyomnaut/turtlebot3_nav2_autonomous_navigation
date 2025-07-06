@@ -14,3 +14,9 @@ This project demonstrates an **autonomous navigation system** using **TurtleBot3
 ---
 
 ## 📦 Files Included
+├── maps/
+│ ├── my_map.yaml
+│ └── my_map.pgm
+├── README.md
+
+
